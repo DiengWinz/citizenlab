@@ -1,0 +1,84 @@
+BASE DE CONNAISSANCE
+Internet Citoyen au Sénégal
+
+====================================
+
+CATÉGORIE : Internet Citoyen
+QUESTION : Qu'est-ce que l'Internet citoyen ?
+RÉPONSE :
+L'Internet citoyen fait référence aux outils et aux usages non marchands d'Internet. Apparu en France en 1995, le terme renvoie à l'utilisation d'Internet par les associations, acteurs économiques, collectivités locales et administration publique pour soutenir la participation des populations à la vie démocratique et l'expression d'une citoyenneté plus active.
+MOTS-CLÉS : Internet citoyen, usages non marchands, participation, démocratie
+SOURCE : Article universitaire 1995-2012
+
+------------------------------------
+
+CATÉGORIE : Connexion Sénégal
+QUESTION : Quand le Sénégal s'est-il connecté à Internet ?
+RÉPONSE :
+Le Sénégal s'est officiellement connecté à Internet en 1996. Depuis cette date, le pays a mis en œuvre des politiques de diffusion et de vulgarisation des usages d'Internet.
+MOTS-CLÉS : 1996, connexion, Sénégal, Internet
+SOURCE : Article historique
+
+------------------------------------
+
+CATÉGORIE : Statistiques 2012
+QUESTION : Quelles étaient les statistiques Internet au Sénégal en 2012 ?
+RÉPONSE :
+En mars 2012, la bande passante internationale atteignait 5,9 Gbps. En décembre 2011, le taux de pénétration d'Internet était de 15,7 % de la population. Plus de 80 % du parc d'abonnés était constitué d'Internet haut débit.
+MOTS-CLÉS : statistiques, 2012, 5.9 Gbps, 15.7 %, haut débit
+SOURCE : Données 2011-2012
+
+------------------------------------
+
+CATÉGORIE : Défis Sénégal
+QUESTION : Quels sont les défis de l'Internet au Sénégal ?
+RÉPONSE :
+Les principaux défis incluent la mauvaise répartition des infrastructures, l'assujettissement du secteur des télécommunications aux logiques politiques, le décalage entre discours politiques et réalités contextuelles, la pauvreté (plus de 50 % de la population) et l'analphabétisme (plus de 60 %).
+MOTS-CLÉS : défis, infrastructures, pauvreté, analphabétisme
+SOURCE : Analyse contextuelle
+
+------------------------------------
+
+CATÉGORIE : Révolution Numérique
+QUESTION : Quelle est la position du Sénégal sur la révolution numérique ?
+RÉPONSE :
+Les autorités sénégalaises ont adopté la rhétorique de la « révolution numérique », affirmant que le Sénégal a raté la révolution industrielle mais que la révolution informationnelle offre une opportunité de rattrapage. Cette vision date de l'an 2000.
+MOTS-CLÉS : révolution numérique, discours, 2000, rattrapage
+SOURCE : Déclaration ministérielle 2000
+
+------------------------------------
+
+CATÉGORIE : Cybercafés
+QUESTION : Quel est le rôle des cybercafés au Sénégal ?
+RÉPONSE :
+En 2004, 50 % des internautes se connectaient au travail, 20 % dans les écoles ou universités, 20 % via les cybercafés et 10 % à domicile. Estimés à environ 800 depuis 2005, les cybercafés jouent un rôle majeur mais sont fortement affectés par les coupures d'électricité pouvant atteindre 12 heures par jour.
+MOTS-CLÉS : cybercafés, accès public, coupures électricité
+SOURCE : Modes d'accès 2004
+
+------------------------------------
+
+CATÉGORIE : Répartition Géographique
+QUESTION : Comment sont répartis les accès Internet ?
+RÉPONSE :
+Dakar concentre environ 60 % des points d'accès Internet du pays. Le reste du territoire connaît une forte carence, créant un vaste désert technologique.
+MOTS-CLÉS : Dakar, 60 %, disparités, désert technologique
+SOURCE : Inégalités territoriales
+
+------------------------------------
+
+CATÉGORIE : E-Gouvernance
+QUESTION : Qu'est-ce que l'e-gouvernance ?
+RÉPONSE :
+L'e-gouvernance désigne l'utilisation des TIC par le secteur public afin d'améliorer la fourniture d'information et de services, d'encourager la participation citoyenne et de renforcer la transparence et l'efficacité de l'État.
+MOTS-CLÉS : e-gouvernance, TIC, participation, transparence
+SOURCE : Définition institutionnelle
+
+------------------------------------
+
+CATÉGORIE : Rubrique Réalisations
+QUESTION : Qu'est-ce que la rubrique « Réalisations » ?
+RÉPONSE :
+La rubrique « Réalisations » dans les sites municipaux sert principalement à valoriser les actions des élus et à renforcer leur image politique auprès des citoyens.
+MOTS-CLÉS : réalisations, sites municipaux, élus
+SOURCE : Analyse des pratiques municipales
+

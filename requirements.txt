@@ -1,0 +1,35 @@
+# ============================================
+# REQUIREMENTS.TXT OPTIMISÉ POUR DÉPLOIEMENT
+# Version légère sans packages inutiles
+# ============================================
+
+# API Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# LLM API
+groq>=0.13.0
+httpx>=0.27.0
+
+# Configuration
+python-dotenv==1.0.0
+
+# Data Processing (versions légères)
+pandas==2.0.3
+numpy==1.24.3
+
+# Embeddings - VERSION LÉGÈRE (CRITIQUE)
+# N'installe PAS torch complet, juste ce qui est nécessaire
+sentence-transformers>=2.5.1
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.0.1+cpu
+
+# Base vectorielle
+faiss-cpu==1.9.0.post1
+
+# PDF Support (optionnel - commentez si pas utilisé)
+PyPDF2>=3.0.0
+
+# Streamlit (optionnel - uniquement si vous voulez l'interface web)
+# streamlit>=1.28.0
