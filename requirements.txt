@@ -22,7 +22,7 @@ pandas>=2.0,<2.2
 # --- Embeddings (SAFE PROD) ---
 sentence-transformers==2.2.2
 torch==2.0.1
-torchvision==0.15.2+cpu
+torchvision==0.15.2
 huggingface-hub==0.13.4
 
 # --- Vector Search ---
