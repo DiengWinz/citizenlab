@@ -21,7 +21,7 @@ pandas>=2.0,<2.2
 
 # --- Embeddings (SAFE PROD) ---
 sentence-transformers==2.2.2
-torch==2.0.1+cpu
+torch==2.0.1
 torchvision==0.15.2+cpu
 huggingface-hub==0.13.4
 
