@@ -1,5 +1,5 @@
 # ============================================
-# requirements.txt — STABLE PROD (Render)
+# requirements.txt — Render CPU compatible
 # Python: 3.10.x
 # ============================================
 
@@ -15,16 +15,18 @@ groq>=0.13.0
 # --- Configuration ---
 python-dotenv==1.0.0
 
-# --- Data Processing (wheels disponibles) ---
+# --- Data Processing ---
 numpy>=1.23,<1.27
 pandas>=2.0,<2.2
 
 # --- Embeddings (SAFE PROD) ---
 sentence-transformers==2.2.2
-torch==2.0.1
+torch==2.0.1+cpu
+torchvision==0.15.2+cpu
+huggingface-hub==0.13.4
 
 # --- Vector Search ---
 faiss-cpu==1.7.4
 
-# --- PDF Support (optionnel) ---
+# --- PDF Support ---
 PyPDF2>=3.0.0
